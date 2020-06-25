@@ -1,0 +1,18 @@
+Ho: mu=0 
+where mu is the true population mean of differences in 2019 and 2020(2019-2020) for all cities simmilar to those in the sample that measured:
+OZONE-1HR for:
+2019-2020
+Ha: mu>0 
+where mu is the true population mean of differences in 2019 and 2020(2019-2020) for all cities simmilar to those in the sample that measured:
+OZONE-1HR for:
+2019-2020
+n=1131
+a sample of 1131 was taken and 1131>30
+The population size is at least 1131 and at least 10 times larger than n
+The sample was randomly selected with random.choices
+All conditions for inference have been metThe t statistic is:
+15.058209001665096
+The p value is:
+5.541513731389107e-29
+Because the p  value is 5.541513731389107e-29 and lower than the significance level 0.05 we reject the null hypothesis.
+There is convincing evidence that the means for all cities simmilar to those in the sample that measured OZONE-1HR are lower in 2020 than in 2019

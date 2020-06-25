@@ -1,0 +1,46 @@
+The largest positive differences of means came from:
+Clemson
+Las Vegas Paiute
+San Luis Rio Colorad
+Reno3
+Confederate Ave
+Meeker Colorado
+Union
+ALTON
+Bushy Park
+Austin Northwest C3
+
+The largest negative differences of means came from:
+UAM Iztapalapa
+Hospital General de 
+UAM Xochimilco
+Pedregal
+Iztacalco
+Merced
+Camarones
+Villa de las Flores
+Cuajimalpa
+Tlalnepantla
+
+The largest positive differences of standard deviations came from:
+Ft McD Yuma Frank-AZ
+Beijing
+Santa Fe
+Hospital General de 
+Camarones
+Mojave NPr
+EAGLEMT
+Cuajimalpa
+StJohns
+Merced
+The largest negative differences of standard deviations came from:
+Cuautitil n
+Nezahualc¢yotl
+FES Acatl n
+Tultitl n
+Blackstone
+Durant
+Red Deer
+AREN
+LANSING
+BASKETT

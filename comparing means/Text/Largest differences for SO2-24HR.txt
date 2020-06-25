@@ -1,0 +1,46 @@
+The largest positive differences of means came from:
+Estacion Facultad de
+PASCAGOULA
+JPN Site 027146010
+JPN Site 027201030
+Estacion Nativitas
+JPN Site 038205010
+JPN Site 017202200
+JPN Site 027201090
+DETROIT - SOUTHWEST 
+NCore
+
+The largest negative differences of means came from:
+Estacion DIF
+Estacion Bomberos
+JPN Site 021209020
+JPN Site 027108010
+Youngstown - Oakhill
+JPN Site 027123010
+Miami Jones Ranch
+Langdale Elementary
+JPN Site 028641010
+Estacion Teodula
+
+The largest positive differences of standard deviations came from:
+JPN Site 046201220
+JPN Site 046302020
+PASCAGOULA
+Andrew Johnson Elem.
+Estacion DIF
+JPN Site 046201260
+Estacion Bomberos
+Pocatello STP
+JPN Site 017202200
+Estacion Teodula
+The largest negative differences of standard deviations came from:
+JPN Site 005201010
+Millbrook NCore
+Ironton - ODOT
+Tulsa 0235
+Irmo
+E Providence
+Vallejo
+LAX-Hastings
+Riverside - Rubidoux
+East High School

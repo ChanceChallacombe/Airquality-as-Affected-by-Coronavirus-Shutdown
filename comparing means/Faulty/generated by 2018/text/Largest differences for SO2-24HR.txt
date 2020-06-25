@@ -1,0 +1,46 @@
+The largest positive differences of means came from:
+PASCAGOULA
+DETROIT - SOUTHWEST 
+NCore
+Moran
+St Regis Mohawk-NY
+Hayden
+Bean
+Harvard Yards
+Horse Rock
+PORT HURON
+
+The largest negative differences of means came from:
+Tlalnepantla
+Villa de las Flores
+Merced
+Camarones
+Pedregal
+UAM Iztapalapa
+Iztacalco
+Cuajimalpa
+Youngstown - Oakhill
+Miami Jones Ranch
+
+The largest positive differences of standard deviations came from:
+PASCAGOULA
+Pocatello STP
+Fire Station 13
+Southport DRR
+Moran
+Horse Rock
+DETROIT - SOUTHWEST 
+Villa de las Flores
+Tlalnepantla
+Saint-Jean-Baptiste
+The largest negative differences of standard deviations came from:
+Cuautitil n
+Nezahualc¢yotl
+FES Acatl n
+Tultitl n
+Blackstone
+Jackson NCORE
+Anacortes-202 Ave (S
+NORFOLK - NOAA
+Horn Point
+Tulsa 0235

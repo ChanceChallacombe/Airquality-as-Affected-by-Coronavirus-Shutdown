@@ -1,0 +1,18 @@
+Ho: mu=0 
+where mu is the true population mean of differences in 2019 and 2020(2019-2020) for all cities simmilar to those in the sample that measured:
+PM2.5-24hr for:
+2019-2020
+Ha: mu>0 
+where mu is the true population mean of differences in 2019 and 2020(2019-2020) for all cities simmilar to those in the sample that measured:
+PM2.5-24hr for:
+2019-2020
+n=970
+a sample of 970 was taken
+the population size is at least 970 and at least 10 times larger than n
+The sample was randomly selected and is independent because of replacement
+The t statistic is:
+0.7114916252897671
+The p value is:
+0.23925247888166906
+Because the p  value is 0.23925247888166906 and greater than the significance level 0.05 we fail to reject the null hypothesis.
+There is not convincing evidence that the means for all cities simmilar to those in the sample that measured PM2.5-24hr are lower in 2020 than in 2019

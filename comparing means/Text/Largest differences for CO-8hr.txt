@@ -1,0 +1,46 @@
+The largest positive differences of means came from:
+JPN Site 017201560
+JPN Site 040133510
+SPABC14 COBACH
+Galleria
+Garden
+Estacion Cruz Roja
+Fontana - Arrow High
+JPN Site 015102510
+Copper View
+Hawthorne
+
+The largest negative differences of means came from:
+E Providence
+Estacion San Juanico
+Estacion DIF
+Estacion Seguridad P
+Near Road OKC
+GRAND RAPIDS
+Estacion Teodula
+JPN Site 014131530
+JPN Site 010211510
+JPN Site 013203510
+
+The largest positive differences of standard deviations came from:
+E Providence
+Estacion Cruz Roja
+Estacion San Juanico
+JPN Site 017201560
+Estacion Seguridad P
+JPN Site 015102510
+Estacion DIF
+Blaine
+DET POLICE 4TH
+SPABC14 COBACH
+The largest negative differences of standard deviations came from:
+ALLEN PARK
+Bondville
+Miller State Park
+Cornwall
+Look Rock - GSMNP
+Underhill
+Piney Run
+Horicon Wildlife Are
+NCore - White Mounta
+Londonderry - Moose 

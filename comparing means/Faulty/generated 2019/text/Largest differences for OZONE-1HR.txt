@@ -1,0 +1,46 @@
+The largest positive differences of means came from:
+Estacion San Juanico
+Clemson
+Las Vegas Paiute
+Wolf Creek
+Manama
+Union
+Confederate Ave
+Long Creek
+MOBILE - SANTA ANA
+Meeker Colorado
+
+The largest negative differences of means came from:
+WARREN
+Willows-Colusa
+Tishomingo
+Ft McD Yuma Frank-AZ
+El Centro - 9th Stre
+Joussard
+Pomona
+Quesnel Senior Secon
+Norristown
+Missoula Boyd Park
+
+The largest positive differences of standard deviations came from:
+Ft McD Yuma Frank-AZ
+Estacion Bomberos
+Estacion Hospital Ge
+Estacion T21
+Beijing
+7004
+Estacion CICEG
+Estacion Teodula
+Northwest Harris Co.
+El Centro - 9th Stre
+The largest negative differences of standard deviations came from:
+Sipayik-ME
+Winnipeg_Ellens
+Meeker Colorado
+Bishop Paiute Tribe-
+Port Clyde
+Lompoc H Street
+MOBILE - SANTA ANA
+Las Vegas Paiute
+MANISTEE
+Monrovia

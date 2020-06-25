@@ -1,0 +1,46 @@
+The largest positive differences of means came from:
+Mono Shore
+Estacion Facultad de
+Estacion Hospital Ge
+Estacion San Juanico
+Saul Martinez
+Estacion CICEG
+West 43rd
+Estacion Teodula
+Golden Hospital
+Hayden
+
+The largest negative differences of means came from:
+San Bernadino - 4th 
+Willows-Colusa
+GARDINIER
+Burbank-Maple Street
+South Valley
+Estacion Purisima de
+Taft
+PECK
+Broadus
+Healdton
+
+The largest positive differences of standard deviations came from:
+Mono Shore
+7E Deming Airport
+Holman Rd
+Desert View
+Chaparral
+Yupparaj Wittayalai 
+Shell Cut
+Anthony
+Saul Martinez
+West Mesa
+The largest negative differences of standard deviations came from:
+Lake Ilo
+Miller State Park
+RYDER
+WIND CAVE
+Daniel South
+Malta
+Boulder
+Lostwood NWR
+TRNP-NU
+Moxa Arch
